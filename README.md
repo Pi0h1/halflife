@@ -32,7 +32,7 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 
 - [**Vanilla Revolver | Reanimated**](https://gamebanana.com/mods/180297 "Vanilla Revolver | Reanimated") by **Unhealthygrapejuice**
 
-#### Character Models
+#### 👨‍🔬 Character Models
 - [**Restored Neural NPCs**](https://gamebanana.com/mods/179864 "Restored Neural NPCs") by **LeonelC**
  
 - [**Gordon Freeman Model Improved**](https://gamebanana.com/mods/179590 "Gordon Freeman Model Improved") by **BrussTrigger**
@@ -68,4 +68,6 @@ If you find I used a mod you worked on here and would like to be credited feel f
 
 >&dagger; = Content has been modified from its original form for use in this repository.
 
->Half-Life logo used in this README by SirDecent on SteamGridDB
+>[Half-Life Logo]("https://www.steamgriddb.com/logo/31554" "Logo for Half-Life by SirDecent") used in this README by SirDecent on SteamGridDB
+
+>[Half-Life Horizontal Steam Grid](https://www.steamgriddb.com/grid/33670 "Grid of Half-Life by SurgicalAsh5") used in the repository's social media preview by SurgicalAsh5 on SteamGridDB
