@@ -64,9 +64,9 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 
 #### 👨‍🎨 Repository Graphics
 
-- [**Half-Life Logo**](https://www.steamgriddb.com/logo/31554 "Logo for Half-Life by SirDecent") used in this README by SirDecent on SteamGridDB
+- [**Half-Life Logo**](https://www.steamgriddb.com/logo/31554 "Logo for Half-Life by SirDecent") used in this README by **SirDecent**
 
-- [**Half-Life Horizontal Steam Grid**](https://www.steamgriddb.com/grid/33670 "Grid of Half-Life by SurgicalAsh5") used in the repository's social media preview by SurgicalAsh5 on SteamGridDB
+- [**Half-Life Horizontal Steam Grid**](https://www.steamgriddb.com/grid/33670 "Grid of Half-Life by SurgicalAsh5") used in the repository's social media preview by **SurgicalAsh5**
 
 **Author's note**
 > I came up with the idea of making this a repository **after** creating this folder, as such there might be mods I forgot to credit due to me not keeping track of it at the beginning.
