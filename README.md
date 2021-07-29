@@ -31,8 +31,10 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 
 #### Character Models
 - [**Restored Neural NPCs**](https://gamebanana.com/mods/179864 "Restored Neural NPCs") by **LeonelC**
+ 
 - [**Gordon Freeman Model Improved**](https://gamebanana.com/mods/179590 "Gordon Freeman Model Improved") by **BrussTrigger**
-- [**Improved Gina Cross**](https://gamebanana.com/mods/179787 "Improved Gina Cross") by **XRGM1267 - X-RED**
+
+- [**Improved Gina Cross**](https://gamebanana.com/mods/179787 "Improved Gina Cross")&dagger; by **XRGM1267 - X-RED**
 
 #### 🏡 Maps
 - `c0a0.bsp` | [**Half-Life: Restored**](https://store.steampowered.com/app/1283930/HalfLife_Restored/ "Half-Life: Restored") by **Vect0R**
@@ -47,7 +49,7 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 #### 🎨 Graphic User Interface
 - [**Steam Menu Widescreen Fix + Expansion Support**](https://gamebanana.com/mods/24731 "**Steam Menu Widescreen Fix + Expansion Support**") by **TheObscure**
 
-- [**Half-Life WON Menu Re-Creation**](https://gamebanana.com/mods/24540 "**Half-Life WON Menu Re-Creation**") by **HowardHeyman**
+- [**Half-Life WON Menu Re-Creation**](https://gamebanana.com/mods/24540 "**Half-Life WON Menu Re-Creation**")&dagger; by **HowardHeyman**
 
 - [**HL1 MP5 & Shotgun Sprites Fix**](https://gamebanana.com/mods/24745 "**HL1 MP5 & Shotgun Sprites Fix**") by **QuakerCraft**
 
@@ -56,3 +58,5 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 **Author's note**
 > I came up with the idea of making this a repository **after** creating this folder, as such there might be mods I forgot to credit due to me not keeping track of it at the beginning.
 If you find I used a mod you worked on here and would like to be creditd feel free to contact me!
+
+>&dagger; = Content has been modified from its original form for use in this repository.
