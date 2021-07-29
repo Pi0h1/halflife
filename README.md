@@ -47,13 +47,17 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 - [**HL:A Footsteps & Debris**](https://gamebanana.com/sounds/47108 "HL:A Footsteps & Debris") by **[TR]-Emir**
 
 #### 🎨 Graphic User Interface
-- [**Steam Menu Widescreen Fix + Expansion Support**](https://gamebanana.com/mods/24731 "**Steam Menu Widescreen Fix + Expansion Support**") by **TheObscure**
+- [**Steam Menu Widescreen Fix + Expansion Support**](https://gamebanana.com/mods/24731 "Steam Menu Widescreen Fix + Expansion Support") by **TheObscure**
 
-- [**Half-Life WON Menu Re-Creation**](https://gamebanana.com/mods/24540 "**Half-Life WON Menu Re-Creation**")&dagger; by **HowardHeyman**
+- [**Half-Life WON Menu Re-Creation**](https://gamebanana.com/mods/24540 "Half-Life WON Menu Re-Creation")&dagger; by **HowardHeyman**
 
-- [**HL1 MP5 & Shotgun Sprites Fix**](https://gamebanana.com/mods/24745 "**HL1 MP5 & Shotgun Sprites Fix**") by **QuakerCraft**
+- [**HL1 MP5 & Shotgun Sprites Fix**](https://gamebanana.com/mods/24745 "HL1 MP5 & Shotgun Sprites Fix") by **QuakerCraft**
 
-- [**HD Crosshairs**](https://gamebanana.com/mods/24528 "**HD Crosshairs**") by **Mr. Floyd**
+- [**HD Crosshairs**](https://gamebanana.com/mods/24528 "HD Crosshairs") by **Mr. Floyd**
+
+#### 📚 Scripts
+
+- [**Zoom View of Black Mesa**](https://gamebanana.com/scripts/10450 "Zoom View of Black Mesa") by **Bounce Glitch**
 
 **Author's note**
 > I came up with the idea of making this a repository **after** creating this folder, as such there might be mods I forgot to credit due to me not keeping track of it at the beginning.
