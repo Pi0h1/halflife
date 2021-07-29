@@ -1,6 +1,6 @@
 # Half-Life
 #### [Pi0h1.com](https://pi0h1.com/ "Pi0h1.com")'s Personal Half-Life build.
->Rise and shine Dr. Freeman. Prepare for unforeseen consequences...
+>Rise and shine, Dr. Freeman. Prepare for unforeseen consequences...
 #### Launch settings
 `-game halflife -windowed -noborder`
 
