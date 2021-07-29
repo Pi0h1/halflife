@@ -2,16 +2,16 @@
 #
 >Rise and shine, Dr. Freeman. Prepare for unforeseen consequences...
 #
-### [Pi0h1.com](https://pi0h1.com/ "Pi0h1.com")'s Personal Half-Life build.
+### [Pi0h1.com](https://pi0h1.com/ "Pi0h1.com")'s Personal [Half-Life](https://www.half-life.com/en/halflife "Half-Life") build.
 #
 #### Launch settings
 `-game halflife -windowed -noborder`
 
-#### Console command
+#### Console commands
 `brightness 0.5; gamma 1.8; default_fov 106`
 
 #### The point of this repository
-This is a pack of mods I like to use when playing through *Half-Life*'s main campaign.
+This is essentially a compilation of mods I like to use when playing through *Half-Life*'s main campaign.
 It doesn't affect the `valve` folder an instead uses its own `halflife` directory. This is for 2 main reasons:
 - It provides a simple installation (Simply clone the repository to your GoldSrc folder).
 - It won't affect other GoldSrc games that rely on the `valve` folder
