@@ -21,7 +21,7 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 - [**Half-Life: Subtitles Mod**](https://www.moddb.com/mods/half-life-subtitles-mod "Half-Life: Subtitles Mod") by **FograinDaNoob**
 
 #### ⚔ Weapon Models
-- [**Half-Life LD Weapons Reanimation Pack [Remake]**](https://gamebanana.com/mods/179921 "Half-Life LD Weapons Reanimation Pack [Remake]") by **^-^MTB_-_Animations^-^**
+- [**Half-Life LD Weapons Reanimation Pack [Remake]**](https://gamebanana.com/mods/179921 "Half-Life LD Weapons Reanimation Pack [Remake]") by **MTB Animations**
 
 - [**Vanilla 9mm | Reanimated**](https://gamebanana.com/mods/180230 "Vanilla 9mm | Reanimated") by **Unhealthygrapejuice**
 
