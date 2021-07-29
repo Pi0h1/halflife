@@ -1,6 +1,9 @@
-# Half-Life
-#### [Pi0h1.com](https://pi0h1.com/ "Pi0h1.com")'s Personal Half-Life build.
+![Logo for Half-Life by SirDecent](https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/f427810d6c49d16a865d20c29ac11e61.png "Logo for Half-Life by SirDecent")
+#
 >Rise and shine, Dr. Freeman. Prepare for unforeseen consequences...
+#
+### [Pi0h1.com](https://pi0h1.com/ "Pi0h1.com")'s Personal Half-Life build.
+#
 #### Launch settings
 `-game halflife -windowed -noborder`
 
@@ -64,3 +67,5 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 If you find I used a mod you worked on here and would like to be credited feel free to contact me!
 
 >&dagger; = Content has been modified from its original form for use in this repository.
+
+>Half-Life logo used in this README by SirDecent on SteamGridDB
