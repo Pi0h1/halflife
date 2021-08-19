@@ -1,6 +1,6 @@
 ![Logo for Half-Life by SirDecent](https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/f427810d6c49d16a865d20c29ac11e61.png "Logo for Half-Life by SirDecent")
 #
->Rise and shine, Dr. Freeman. Prepare for unforeseen consequences...
+>Prepare for unforeseen consequences...
 #
 ### [Pi0h1.com](https://pi0h1.com/ "Pi0h1.com")'s Personal [Half-Life](https://www.half-life.com/en/halflife "Half-Life") build.
 #
