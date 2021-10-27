@@ -1,6 +1,6 @@
 ![Logo for Half-Life by SirDecent](https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/f427810d6c49d16a865d20c29ac11e61.png "Logo for Half-Life by SirDecent")
 #
->Rise and shine, Dr. Freeman. Prepare for unforeseen consequences...
+>Prepare for unforeseen consequences...
 #
 ### [Pi0h1.com](https://pi0h1.com/ "Pi0h1.com")'s Personal [Half-Life](https://www.half-life.com/en/halflife "Half-Life") build.
 #
@@ -22,6 +22,10 @@ It doesn't affect the `valve` folder an instead uses its own `halflife` director
 - [**Half-Life**](https://store.steampowered.com/app/70/HalfLife/ "Half-Life") by **Valve Software**
 
 - [**Half-Life: Subtitles Mod**](https://www.moddb.com/mods/half-life-subtitles-mod "Half-Life: Subtitles Mod") by **FograinDaNoob**
+
+- [**Valve/Gearbox HL:DM Collection (2021 updated)**](https://www.moddb.com/games/half-life/addons/valvegearbox-hldm-collection-fixed) by **Valve/Gearbox, HL Improvement Team, Ryan Finnie, BS2PC Github devs, (Additional credits in summary)**
+> Note: This last one isn't actually included in this repository, as this is mostly multiplayer addons meant to be added to the valve folder. I'm still linking this though just for the sake of easily accessing it.
+
 
 #### ⚔ Weapon Models
 - [**Half-Life LD Weapons Reanimation Pack [Remake]**](https://gamebanana.com/mods/179921 "Half-Life LD Weapons Reanimation Pack [Remake]") by **MTB Animations**
