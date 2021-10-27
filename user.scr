@@ -32,13 +32,13 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Thu Jul 29 03:04:42 AM
+// File generated:  Fri Aug 13 13:39:22 AM
 //
 //
 // Cvar	-	Setting
 
 VERSION 1.0
-//Test
+
 DESCRIPTION INFO_OPTIONS
 {
 	"mp_decals"
