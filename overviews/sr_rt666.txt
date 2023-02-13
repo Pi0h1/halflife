@@ -1,0 +1,15 @@
+
+// Overview for Sr Rt 666
+
+global 
+{
+	ZOOM	.96
+	ORIGIN	0 13 514
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/sr_rt666.bmp"
+	HEIGHT	-225.00
+}
