@@ -12,14 +12,14 @@
 //	}
 
 	"6"{
-		"label" "Campaigns"
+		"label" "	Half-Life"
 		"command" "OpenNewGameDialog"
 		"notmulti" "1"
 	}
 	"7"{
 		//"label" "#GameUI_GameMenu_NewGame"
-		"label" "	Half-Life"
-		"command" "OpenNewGameDialog"
+		"label" "	Office Complex"
+		"command" "engine map c1a2"
 		"notmulti" "1"
 		"OnlyInGame" "0"
 	}
@@ -28,11 +28,11 @@
 		"command" "engine map t0a0"
 		"notmulti" "1"
 	}
-	"9"{
-		"label" "	Uplink"
-		"command" "engine map hldemo1"
-		"notmulti" "1"
-	}
+	//"9"{
+	//	"label" "	Uplink"
+	//	"command" "engine map hldemo1"
+	//	"notmulti" "1"
+	//}
 	"10"{
 		"label" ""
 		"command" ""
@@ -50,11 +50,11 @@
 		//"exec" "sandbox.cfg"
 		"notmulti" "1"
 	}
-//	"13"{
-//		"label" "	Configuration"
-//		"command" "OpenOptionsDialog"
-//		"notsingle" "0"
-//	}
+	//"13"{
+	//	"label" "	Loadout"
+	//	"command" "engine sv_cheats 1; give item_suit; give item_crowbar; give item_9mmhandgun; give item_handgrenade"//"OpenOptionsDialog"
+	//	"notsingle" "0"
+	//}
     "14"{
 		"label" "	Save Game"
 		"command" "OpenSaveGameDialog"
